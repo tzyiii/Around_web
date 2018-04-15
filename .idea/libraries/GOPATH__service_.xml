@@ -1,0 +1,106 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;service&gt;">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/go 2/src/strconv" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/unicode" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/cmd" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/math" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/hash" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/errors" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/regexp" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/syscall" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/bufio" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/internal" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/flag" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/expvar" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/log" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/unsafe" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/database" />
+      <root url="file://$USER_HOME$/go/src/github.com" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/strings" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/vendor" />
+      <root url="file://$USER_HOME$/go/src/golang.org" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/debug" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/os" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/builtin" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/go" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/runtime" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/plugin" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/bytes" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/time" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/container" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/mime" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/fmt" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/path" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/reflect" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/context" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/html" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/text" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/net" />
+      <root url="file://$USER_HOME$/go/src/gopkg.in" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/image" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/compress" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/io" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/testing" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/index" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/archive" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/sort" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/encoding" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/sync" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/crypto" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/go 2/src/strconv" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/unicode" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/cmd" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/math" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/hash" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/errors" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/regexp" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/syscall" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/bufio" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/internal" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/flag" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/expvar" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/log" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/unsafe" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/database" />
+      <root url="file://$USER_HOME$/go/src/github.com" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/strings" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/vendor" />
+      <root url="file://$USER_HOME$/go/src/golang.org" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/debug" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/os" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/builtin" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/go" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/runtime" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/plugin" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/bytes" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/time" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/container" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/mime" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/fmt" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/path" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/reflect" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/context" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/html" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/text" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/net" />
+      <root url="file://$USER_HOME$/go/src/gopkg.in" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/image" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/compress" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/io" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/testing" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/index" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/archive" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/sort" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/encoding" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/sync" />
+      <root url="file://$USER_HOME$/Downloads/go 2/src/crypto" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
