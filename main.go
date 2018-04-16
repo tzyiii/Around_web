@@ -12,7 +12,6 @@ import (
 	"strings"
 	"context"
 	"cloud.google.com/go/bigtable"
-
 )
 
 
@@ -36,11 +35,9 @@ const (
 	INDEX = "around"
 	TYPE = "post"
 	DISTANCE = "200km"
-	// Needs to update
-	PROJECT_ID = "around-201120"
+	PROJECT_ID = "graceful-fact-201302"
 	BT_INSTANCE = "around-post"
-	// Needs to update this URL if you deploy it to cloud.
-	ES_URL = "http://35.196.0.124:9200"
+	ES_URL = "http://35.196.76.219:9200"
 )
 
 func main() {
@@ -126,6 +123,7 @@ func handlerPost(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 	fmt.Printf("Post is saved to BigTable: %s\n", p.Message)
+
 
 }
 
